@@ -1,0 +1,61 @@
+
+
+
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+
+
+
+nav{
+    display: flex;
+    justify-content: center;
+    }
+    a{
+    margin: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    }
+    header{
+    background-image: url("http://i1.faceprep.in/cartoon-background.png");
+    background-repeat: no-repeat;
+    color: blanchedalmond;
+    background-size: cover;
+    padding: 200px;
+    }
+    h1{
+    font-size: 6em;
+    letter-spacing: 10px;
+    }
+    h2{
+    font-size: 4em;
+    }
+    h3{
+    font-size: 2em;
+    }
+    h4{
+    font-size: 2em;
+    }
+    section p,img{
+        padding: 10px;
+    }
+    section p, img{
+        padding: 10px;
+        }
+        .cartoons{
+        color: white;
+        padding: 70px;
+        }
+        #tomandjerry{
+        background-color: yellow;
+        }
+        #shinchan{
+        background-color: red;
+        }
+        #pokemon{
+        background-color: purple;
+        }
